@@ -1,0 +1,3 @@
+[submodule "src/lendit-ci-cd"]
+	path = src/lendit-ci-cd
+	url = https://github.com/Thomasnaslund/lendit-ci-cd
